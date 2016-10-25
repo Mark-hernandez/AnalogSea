@@ -1,0 +1,128 @@
+
+
+.image img {
+	display: block;
+	height: 35px;
+	margin: auto;	
+	margin-top: 30px
+}
+
+.input_container {
+	width: 400px;
+	height: 500px;
+	background-color: white;
+	margin: auto;
+	margin-top: 30px;
+	border: box-border;
+}
+
+ .input_container legend {
+ 	text-align: center;
+    font-weight: 300;
+    color: grey;
+    margin: 0 auto 45px;
+    font-size: 35px;
+    line-height: 38px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 25px;
+}
+
+label {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	margin: 14%;
+}
+
+input[type='email'],
+input[type='password'] {
+    border: 2px solid grey;
+    margin: 20px auto;
+    padding: 15px;
+    width: 65%;
+    display: block;
+    border-radius: 3px;
+    font-size: 18px;
+    text-align: left;
+    height: auto;
+}
+
+button[type='submit'] {
+	border: 2px solid grey;
+    margin: 20px auto;
+    padding: 15px;
+    width: 75%;
+    display: block;
+    border-radius: 3px;
+    font-size: 18px;
+    text-align: center;
+    height: auto;
+    background-color: #42D046;
+    color: white;
+}
+
+
+.signup-form p {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+    color: #999;
+}
+
+.signup-form a {
+    text-decoration: none;
+    color: #999;
+    border-bottom: 1px solid #bbb;
+    text-align: center;
+}
+
+.password  {
+	text-align: center;
+}
+
+.password a {
+	text-decoration: underline;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.footer {
+	text-align: center;
+}
+
+.footer a, p {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+.footer a {
+	text-decoration: underline;
+}
+
+
+
+
+
+/*
+
+.signup-form a:hover {
+    border-color: #999;
+    color: #777;
+}
+
+
+.footer {
+	text-align: center;
+}
+
+.footer a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+    /*Your CSS*/
+
